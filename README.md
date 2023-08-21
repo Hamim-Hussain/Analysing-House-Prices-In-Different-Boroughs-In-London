@@ -33,7 +33,7 @@ Analysis of Property Prices In the different Boroughs In London and other influe
 
 ![scatter_avg_sal](images/scatter_avg_sal.JPG)
 
-* In this chart each dot represents a London borough at an specific moment in time. The correlation coefficient of 0.47 that you see here indicates a moderate correlation between the Average House Price and the Average Salary. For instance, in this graph although we see in the bottom left corner a strong correlation between lower house prices and lower salaries, as salaries and house prices increase the correlation becomes weaker as we can see a bigger spreadas we move up towards the right of the graph. Meaning that that despite being in a low salary you might leave in an affluent borough.
+* In this chart each dot represents a London borough at an specific moment in time. The correlation coefficient of 0.47 that you see here indicates a moderate correlation between the Average House Price and the Average Salary. For instance, in this graph although we see in the bottom left corner a strong correlation between lower house prices and lower salaries, as salaries and house prices increase the correlation becomes weaker as we can see a bigger spread as we move up towards the right of the graph. Meaning that that despite being in a low salary you might leave in an affluent borough.
 
 ![sal_vs_area](images/sal_vs_area.JPG)
 
