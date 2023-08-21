@@ -1,4 +1,6 @@
 # Analysing House Prices In Different Boroughs In London 
+<img src="images/top.JPG" width="1000" height="491">
+
 Team Members -  Diego, Vera, Lewis, Prav, Hamim, Sultana
 
 ### Project Description/Outline:
