@@ -39,15 +39,50 @@ Analysis of Property Prices In the different Boroughs In London and other influe
 
 * Here we see the average salary per borough. What stands out is how City of London, Southwark, Tower Hamlets and  Westminster are the London boroughs with the highest Average Salaries.
 
+![sal_boxplot](images/sal_boxplot.JPG)
 
+* This graph shows the average salary in London in 2018 - the minimum is 31,990 which is in the London borough  Redbridge, the median is almost 37,000 and the max outlier shows what was mentioned in the previous slide that the London boroughs of City of London, Southwark, Tower Hamlets and Westminster.
 
+![past_price](images/past_price.JPG)
 
+* We looked in to how the average house price in London compared with other major cities over the last 25 years. Average house price in London has increased nearly 8 times its original price back in 1995. Other cities while they haven't seen the same level of growth, are now 5-6 times more expensive than what they were 25 years ago. There was a big dip in 2008/2009 due to the financial crisis but this rebounded within a year or two, more so in London to see the greatest rate of increase of average price.
 
+![past_price2](images/past_price2.JPG)
 
+* We then looked at the average price of different property types, and as to be expected the more desirable detached properties fetch a higher value than the semi-detached, terraced and flat types of properties. However, all 4 types of property have had a steady increase over the last 25 years.
 
+![crime1](images/crime1.JPG)
 
+* From the bar plot representing the average house price vs areas, we can see that the highest house prices are in following areas: Kensington and Chelsea Westminster Camden Hammersmith&Fullham Richmond upon Thames Islington.
 
+![crime2](images/crime2.JPG)
 
+* From the bar plot representing the number of crimes per area, we can observe a much higher number of crimes in Westminster, which is skewing the data. However, this is likely due to Westminster (and other high crime concentration areas) being a busy tourist spot. This explains the high amount of price.
+
+![crime3](images/crime3.JPG)
+
+* According to the correlation calculation and the scatter plot, we see a weak correlation between the average house price and the number of crimes. In the future research it may help to remove some of the city centre and tourist reas from the data to help understand this potential correlation better. The data is also not the most reliable as some areas were lacking in crime numbers or the crimes statistics was recorded poorly.
+
+![fastfood](images/fastfood.JPG)
+
+* With the use of Places API Playground we looked locating the number of fast food places and bars
+* Focus was given to the bottom 5 boroughs by average house prices: (i) Barking & Dagenham (ii) Bexley (iii) Newham (iv) Havering (v) Croydon
+* On analysis of the data it can be seen that Westminster is an outlier and skewing the data for both number of fast food placed and number of bars.
+* Barking and Havering have the lowest figures for fast food places.
+* Barking and Havering also show the lowest figures for fast food places.
+
+![bars](images/bars.JPG)
+
+* With the use of Places API Playground we looked locating the number of fast food places and bars
+* Focus was given to the top 5 boroughs by average house prices: (i) Kensington & Chelsea (ii) Westminster (iii) Camden (iv) Hammersmith & Fulham (v) Richmond upon Thames
+* On analysis of the data it can be seen that Westminster is an outlier and skewing the data for both number of fast food placed and number of bars.
+* Hammersmith and Richmond show the lowest figures for bars.
+* Kensington and Richmond show the lowest figures for fast food places
+
+![pie](images/pie.JPG)
+
+* Using the APIs package we were able to locate the number of bars and  fast food places in specific boroughs. The playground API was able to provide the numbers, coordinates and names of places for each borough specified.The data for number of fast food places showed that on average there were 164 places in the top 5 boroughs and 143 places in the bottom 5 boroughs, so not a significant difference.With the data for the number of bars in the boroughs, on average for the top 5 boroughs there were 64 and for the bottom 5 boroughs 32 bars. So, the boroughs with higher priced house on average,  had nearly double the number of bars.
+* From the pie chart, it can be seen very clearly Kensington, Westminster and Camden have the most bars.This indicates that areas with higher prices show a trend of having more bars; this could be due to having a population with more disposable income attracting this type of business, or the higher frequency of bars could be attracting higher earners, thus increasing demand for property, causing an increase in price. The data is not conclusive for this and more data analysis would be required.
 
 ### Conclusion:
 We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest boroughs. We discovered the following through our research:
