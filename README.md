@@ -87,13 +87,16 @@ Analysis of Property Prices In the different Boroughs In London and other influe
 * From the pie chart, it can be seen very clearly Kensington, Westminster and Camden have the most bars. This indicates that areas with higher prices show a trend of having more bars; this could be due to having a population with more disposable income attracting this type of business, or the higher frequency of bars could be attracting higher earners, thus increasing demand for property, causing an increase in price. The data is not conclusive for this and more data analysis would be required.
 
 ### Conclusion:
-We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest boroughs. We discovered the following through our research:
-1. According to the data we gathered, flats and apartments are the most common kind of property to live in, and square footage is the factor that has the biggest impact on how much a property is worth.
-2. Central London has the highest population density compared to other 'London Postcodes.
-3. The highest house prices are in following areas: Kensington and Chelsea, Westminster, Camden Hammersmith & Fulham, Richmond upon Thames, and Islington.
-4. Where the crimes were at the highest, these were tourist areas.
-5. House prices have increased almost 8 times the cost over the last 25 years.
-6. Average salary did not correlate with the prices of the house. 
+Based on the comprehensive analysis conducted on various aspects of the London housing market and its correlations with different factors, several conclusions can be drawn:
+
+1. **Popular Property Types**: The most popular property type for sale in London is flats/apartments, especially in Central London. This trend might be influenced by London's status as a financial center and high population density.
+2. **Correlation between House Prices and Salary**: A moderate positive correlation of 0.47 exists between average house prices and average salaries across London boroughs. Boroughs like City of London, Southwark, Tower Hamlets, and Westminster stand out with the highest average salaries.
+3. **Historical Price Trends**: Over the last 25 years, average house prices in London have risen significantly, nearly eightfold from 1995. Other major UK cities have also experienced notable increases but not as drastic as London's.
+4. **Correlation with Crime Statistic**s: Although a weak correlation was observed between average house prices and crime statistics, further analysis excluding city center and tourist areas might provide more insight. Higher house prices in areas like Kensington & Chelsea, Westminster, and Camden can be partly explained by their bustling nature and tourist attractions.
+5. **Amenities and House Prices**: Boroughs with higher house prices tend to have more bars, indicating a potential correlation between property values and leisure amenities. Areas with affluent populations might attract more of these businesses.
+6. **Spatial Distribution**: Central boroughs like Westminster, Kensington & Chelsea, and Camden exhibit higher numbers of both fast food places and bars, suggesting a relationship between property prices and the density of such establishments.
+
+In conclusion, London's housing market is influenced by a myriad of factors, including income levels, historical trends, amenities, and proximity to city centers. While a clear correlation exists between average house prices and average salaries, the relationships with crime statistics and amenities are nuanced. These findings provide valuable insights for potential property buyers, investors, and policymakers to make informed decisions in London's dynamic real estate landscape. Further analysis and refinement of data might offer even deeper insights into the intricate workings of the London housing market. 
 
 ### Data Sets Used:
 1. https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
