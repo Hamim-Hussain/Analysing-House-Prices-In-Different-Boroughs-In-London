@@ -1,7 +1,5 @@
-# Data-Analytic-Project-1
-
-## Project Title - Analysing House Prices In Different Boroughs In London 
-Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
+# Analysing House Prices In Different Boroughs In London 
+Team Members -  Diego, Vera, Lewis, Prav, Hamim, Sultana
 
 ### Project Description/Outline:
 Analysis of Property Prices In the different Boroughs In London and other influences on the property price.
