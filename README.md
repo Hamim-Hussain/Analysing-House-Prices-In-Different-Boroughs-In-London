@@ -11,7 +11,11 @@ Analysis of Property Prices In the different Boroughs In London and other influe
 2.   What is the correlation between house prices and average salary in London? Which areas have a higher salary?
 3.   How do property prices in London compare with other major cities in the UK over the last 25 years?
 4.   What is the correlation between house prices and crime statistics?
-5.   With the use of Apis, what are the correlation of average prices with certain amenities (Restaurants and Bars? 
+5.   With the use of Apis, what are the correlation of average prices with certain amenities (Restaurants and Bars)?
+
+### Findings
+
+
 
 
 ### Conclusion:
